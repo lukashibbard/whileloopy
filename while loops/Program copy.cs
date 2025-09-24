@@ -1,10 +1,11 @@
 using System.Collections;
-
+// the code starts by while true so the game can loop
 string decis = "";
 while (true)
 
 {
     Console.WriteLine("you entered the castle of the king,");
+    // line 7-14 asks if they would like to start the game and if they do they enter 
     Console.WriteLine("the castle is full of dragons continue if you dare but if you find the crown you will become the lord of the land");
     Console.WriteLine("would you like to journy into the castle yes or no");
     Console.WriteLine("Enter here:");
@@ -128,4 +129,5 @@ while (true)
 if (decis == "no")
     {
         Console.WriteLine("you decided to not enter you loser");
+
     }
