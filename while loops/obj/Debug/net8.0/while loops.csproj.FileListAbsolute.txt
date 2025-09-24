@@ -1,0 +1,42 @@
+C:\Users\lh0999775\Desktop\while loops\bin\Debug\net8.0\while loops.exe
+C:\Users\lh0999775\Desktop\while loops\bin\Debug\net8.0\while loops.deps.json
+C:\Users\lh0999775\Desktop\while loops\bin\Debug\net8.0\while loops.runtimeconfig.json
+C:\Users\lh0999775\Desktop\while loops\bin\Debug\net8.0\while loops.dll
+C:\Users\lh0999775\Desktop\while loops\bin\Debug\net8.0\while loops.pdb
+C:\Users\lh0999775\Desktop\while loops\obj\Debug\net8.0\while loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lh0999775\Desktop\while loops\obj\Debug\net8.0\while loops.AssemblyInfoInputs.cache
+C:\Users\lh0999775\Desktop\while loops\obj\Debug\net8.0\while loops.AssemblyInfo.cs
+C:\Users\lh0999775\Desktop\while loops\obj\Debug\net8.0\while loops.csproj.CoreCompileInputs.cache
+C:\Users\lh0999775\Desktop\while loops\obj\Debug\net8.0\while loops.dll
+C:\Users\lh0999775\Desktop\while loops\obj\Debug\net8.0\refint\while loops.dll
+C:\Users\lh0999775\Desktop\while loops\obj\Debug\net8.0\while loops.pdb
+C:\Users\lh0999775\Desktop\while loops\obj\Debug\net8.0\while loops.genruntimeconfig.cache
+C:\Users\lh0999775\Desktop\while loops\obj\Debug\net8.0\ref\while loops.dll
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.exe
+C:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.deps.json
+C:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.runtimeconfig.json
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.dll
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.pdb
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.AssemblyInfoInputs.cache
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.AssemblyInfo.cs
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.csproj.CoreCompileInputs.cache
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.dll
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\refint\while loops.dll
+c:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.pdb
+C:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.genruntimeconfig.cache
+C:\Users\admin\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\ref\while loops.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.exe
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.deps.json
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.runtimeconfig.json
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\bin\Debug\net8.0\while loops.pdb
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.AssemblyInfoInputs.cache
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.AssemblyInfo.cs
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.csproj.CoreCompileInputs.cache
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\refint\while loops.dll
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.pdb
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\while loops.genruntimeconfig.cache
+C:\Users\lh0999775\OneDrive - Ozarks Technical Community College\while loops\obj\Debug\net8.0\ref\while loops.dll
